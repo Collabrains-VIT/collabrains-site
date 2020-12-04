@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/collabrains-site/static/css/main.955ad534.chunk.css",
+    "main.js": "/collabrains-site/static/js/main.af8b6e84.chunk.js",
+    "main.js.map": "/collabrains-site/static/js/main.af8b6e84.chunk.js.map",
+    "runtime-main.js": "/collabrains-site/static/js/runtime-main.253c7cf2.js",
+    "runtime-main.js.map": "/collabrains-site/static/js/runtime-main.253c7cf2.js.map",
+    "static/css/2.fe47a493.chunk.css": "/collabrains-site/static/css/2.fe47a493.chunk.css",
+    "static/js/2.3ccf7a6a.chunk.js": "/collabrains-site/static/js/2.3ccf7a6a.chunk.js",
+    "static/js/2.3ccf7a6a.chunk.js.map": "/collabrains-site/static/js/2.3ccf7a6a.chunk.js.map",
+    "static/js/3.7c5f09b4.chunk.js": "/collabrains-site/static/js/3.7c5f09b4.chunk.js",
+    "static/js/3.7c5f09b4.chunk.js.map": "/collabrains-site/static/js/3.7c5f09b4.chunk.js.map",
+    "index.html": "/collabrains-site/index.html",
+    "static/css/2.fe47a493.chunk.css.map": "/collabrains-site/static/css/2.fe47a493.chunk.css.map",
+    "static/css/main.955ad534.chunk.css.map": "/collabrains-site/static/css/main.955ad534.chunk.css.map",
+    "static/js/2.3ccf7a6a.chunk.js.LICENSE.txt": "/collabrains-site/static/js/2.3ccf7a6a.chunk.js.LICENSE.txt",
+    "static/media/group-273.08110037.png": "/collabrains-site/static/media/group-273.08110037.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253c7cf2.js",
+    "static/css/2.fe47a493.chunk.css",
+    "static/js/2.3ccf7a6a.chunk.js",
+    "static/css/main.955ad534.chunk.css",
+    "static/js/main.af8b6e84.chunk.js"
+  ]
+}
